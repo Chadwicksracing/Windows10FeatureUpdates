@@ -1,0 +1,25 @@
+<Settings>
+    <TSIDs>
+	    <DEV>
+            <Toast>MM1007FA</Toast>
+            <PreStage>MM100983</PreStage>
+            <FeatureUpdate>MM100996</FeatureUpdate>
+	    </DEV>
+	    <QA>
+            <Toast>MM1007FD</Toast>
+            <PreStage>MM1009D0</PreStage>
+            <FeatureUpdate>MM100996</FeatureUpdate>
+	    </QA>
+	    <PILOT>
+            <Toast>MM100800</Toast>
+            <PreStage>MM1009D1</PreStage>
+            <FeatureUpdate>MM100996</FeatureUpdate>
+	    </PILOT>
+	    <PROD>
+            <Toast>MM100803</Toast>
+            <PreStage>MM100983</PreStage>
+            <FeatureUpdate>MM100996</FeatureUpdate>
+	    </PROD>
+    </TSIDs>
+    <PreviousBuilds>1507,1511,1607,1703,1709,1803,1809,1903</PreviousBuilds>
+</Settings>

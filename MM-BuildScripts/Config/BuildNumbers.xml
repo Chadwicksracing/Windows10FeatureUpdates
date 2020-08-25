@@ -1,0 +1,32 @@
+<BuildNumbers>
+    <Build ID="1507">
+        <Ver>10240</Ver>
+    </Build>
+    <Build ID="1511">
+        <Ver>10586</Ver>
+    </Build>
+    <Build ID="1607">
+        <Ver>14393</Ver>
+    </Build>
+    <Build ID="1703">
+        <Ver>15063</Ver>
+    </Build>
+    <Build ID="1709">
+        <Ver>16299</Ver>
+    </Build>
+    <Build ID="1803">
+        <Ver>17134</Ver>
+    </Build>
+    <Build ID="1809">
+        <Ver>17763</Ver>
+    </Build>
+    <Build ID="1903">
+        <Ver>18362</Ver>
+    </Build>
+    <Build ID="1909">
+        <Ver>18363</Ver>
+    </Build>
+    <Build ID="2004">
+        <Ver>19041</Ver>
+    </Build>
+</BuildNumbers>
